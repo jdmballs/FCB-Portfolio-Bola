@@ -1,0 +1,31 @@
+* {
+	font-family: 'Roboto', sans-serif;
+}
+html{
+	scroll-behavior: smooth;
+}
+
+h1, h2{
+	font-family: 'Montserrat', sans-serif;
+}
+
+img{
+	height: 250px;
+	width: 250px;
+}
+
+#landing {
+	height: 80vh;
+}
+
+#gallery{
+	height: 100vh;
+	color: white !important;
+}
+.jumbotron{
+	flex-direction: column !important;
+}
+
+#gallery h2{
+	color: #6495ED;
+}
